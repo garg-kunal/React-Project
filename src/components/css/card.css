@@ -1,0 +1,21 @@
+#pic{
+    border:2px solid #825FDD;
+}
+
+.card{
+    margin:10px;
+    padding: 10px;
+    box-shadow: 2px 3px 3px lightgrey;
+   
+}
+.btn{
+    border-radius: 20px;
+    font-size: 10;
+}
+
+#selectionbar{
+    border-radius: 0px 30px 0px 30px ;
+    text-align: center;
+    background-color: #825FDD;
+  position:static;
+}

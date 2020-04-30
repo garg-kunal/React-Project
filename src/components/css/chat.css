@@ -1,0 +1,14 @@
+#chat-card{
+    border-radius: 0px 30px 30px 30px;
+    width:30rem;
+}
+.card-footer{
+    border-radius: 0px 30px 30px 30px;
+}
+
+#msg{
+    padding-top: 20px;
+    display:block;
+    width: 18rem;
+  
+}

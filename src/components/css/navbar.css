@@ -1,0 +1,62 @@
+         /* clases */
+
+.navbar-brand img{
+  height:80px;
+
+}
+.btn:hover{
+  transform: scale(1.1);
+  background-color: white;
+  text-decoration: solid;
+  color: black;
+}
+.nav-link,.nav-item{
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+.nav-link:hover{
+   transform: scale(1.1);
+   color: white;
+}
+
+.fa{
+  color:white;
+}
+         /* direct css 
+          */
+nav{
+  background-color:#4066D5;
+}
+
+
+               /* ids here  */
+#search{
+  border-radius: 20px;
+  border:3px solid #825FDD;
+
+}
+#cart{
+  height: 50px;
+}
+#cart:hover{
+  transform: rotateY(180deg);
+ transition: ease-in-out;
+}
+.fixed-bottom{
+  float: inline-end;
+margin-right: 40px;
+margin-bottom: 20px;
+}
+
+.dropdown:hover >.dropdown-menu {
+  display: block;
+  transform: scale(1.1);
+
+}
+
+
+.dropdown>.dropdown-toggle:active {
+  /* Without this, clicking will make it sticky */
+    pointer-events: none;
+}
